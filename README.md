@@ -1,4 +1,4 @@
 # BlynkGO_Regist
- BlynkGO Online Register ROM
+ BlynkGO Remote Register ROM
  
  
